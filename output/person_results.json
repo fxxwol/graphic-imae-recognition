@@ -1,0 +1,15 @@
+{
+    "image": "person.jpg",
+    "detections": [
+        {
+            "class": "person",
+            "confidence": 0.92,
+            "coordinates": {
+                "x_min": 100,
+                "y_min": 150,
+                "x_max": 400,
+                "y_max": 500
+            }
+        }
+    ]
+}

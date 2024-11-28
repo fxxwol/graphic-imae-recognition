@@ -1,0 +1,15 @@
+{
+    "image": "dog.jpg",
+    "detections": [
+        {
+            "class": "dog",
+            "confidence": 0.95,
+            "coordinates": {
+                "x_min": 150,
+                "y_min": 200,
+                "x_max": 300,
+                "y_max": 400
+            }
+        }
+    ]
+}
