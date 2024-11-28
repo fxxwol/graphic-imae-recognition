@@ -1,7 +1,6 @@
 import cv2
 import torch
 
-# Завантаження моделі YOLO при імпорті
 model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
 
 def process_image(image_path):
